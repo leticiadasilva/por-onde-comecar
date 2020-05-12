@@ -6,7 +6,9 @@
 ## Lógica de programação
 
 - Curso de Lógica de Programação:
-    - [Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV), por Gustavo Guanabara (Dica da [Aline Bastos](https://www.twitter.com/alinebastos)): 
+    - [Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV), por Gustavo Guanabara (Dica da [Aline Bastos](https://www.twitter.com/alinebastos));
+    
+    - [Curso em vídeo - Lógica de Programação com Javascript](https://www.youtube.com/playlist?list=PL1dUY2RYa2RidB3B134ywckDyf-FOwbv7), por serfrontend cursos online;
 
 ---
 
@@ -19,7 +21,9 @@
 
 ## HTML, CSS
 - HTML5 + CSS3 + Javascript:
-    - [Curso de HTML5 completo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o), por Gustavo Guanabara (Dica da [Aline Bastos](https://www.twitter.com/alinebastos));  
+    - [Curso de HTML5 completo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o), por Gustavo Guanabara (Dica da [Aline Bastos](https://www.twitter.com/alinebastos));
+- CSS:
+    - [Pare de chutar e aprenda as propriedades CSS de posicionamento](https://www.youtube.com/playlist?list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x), por Marco Bruno.
 
 ---
 
