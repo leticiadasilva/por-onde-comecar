@@ -4,7 +4,9 @@
 
 Criei esse repositório com o intuito de reunir um pouco do conteúdo que vejo vagando por aí e que acaba sendo perdido por algumas pessoas. A ideia é reunir materiais disponibilizados de forma gratuita e livre sobre as mais diversas áreas e tecnologias da área de TI, para possibilitar que mais pessoas possam ter acesso a esses conteúdos e consigam ter um "norte" de por onde começar.
 
-![Markdown](https://media.giphy.com/media/8MPtQ1ranGmze/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/8MPtQ1ranGmze/giphy.gif">
+</p>
 
 ## Para contribuir:
 
@@ -38,4 +40,6 @@ Bons estudos!
 
 Beijinhos, Lê! <3
 
-<p align="center">![Markdown](https://media.giphy.com/media/GB0lKzzxIv1te/giphy.gif)</p>
+<p align="center"> 
+<img src="https://media.giphy.com/media/GB0lKzzxIv1te/giphy.gif">
+</p>
