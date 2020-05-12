@@ -1,4 +1,4 @@
-# Por onde começar? <3
+# Por onde começar? 
 
 > União de materiais totalmente gratuitos para ajudar quem desejar entrar em alguma área, aprender uma nova tecnologia ou aprimorar suas skills.
 
@@ -36,7 +36,7 @@ Criei esse repositório com o intuito de reunir um pouco do conteúdo que vejo v
 
 - Qualquer dúvida você pode abrir uma issue ou mandar uma DM para mim, clicando [aqui](https://twitter.com/dii_lua).   
 
-Bons estudos!
+### Bons estudos!
 
 Beijinhos, Lê! <3
 
