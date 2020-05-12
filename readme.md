@@ -38,4 +38,4 @@ Bons estudos!
 
 Beijinhos, Lê! <3
 
-![Markdown](https://media.giphy.com/media/GB0lKzzxIv1te/giphy.gif)
+<p align="center">![Markdown](https://media.giphy.com/media/GB0lKzzxIv1te/giphy.gif)</p>
