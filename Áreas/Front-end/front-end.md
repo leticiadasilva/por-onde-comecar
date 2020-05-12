@@ -40,3 +40,9 @@ Mostram uma visão geral da área e te indicam por onde começar.
 - [Roadmap.sh](https://roadmap.sh/frontend);
 
 - [Andrea Sbm - Web skills](https://andreasbm.github.io/web-skills/);
+
+
+## Guia de carreira
+
+    
+- [Front-end career](https://frontend.guide/), por [William Oliveira](http://woliveiras.com.br/); #PT-BR, #ENG
