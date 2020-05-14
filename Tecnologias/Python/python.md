@@ -15,8 +15,8 @@
 ## Data Science
 
 - Cursos:
-   - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (Dica do Wesley Alves);
+   - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos), por Data Science Academy (Dica do Wesley Alves);
 - Livros
-    - [Python Data Science Handbook](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos) (Dica do Wesley Alves);  
+    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
 
 
