@@ -7,15 +7,15 @@
 
 - Curso de Lógica de Programação:
     - [Curso em vídeo](https://www.youtube.com/playlist?list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV), por Gustavo Guanabara (Dica da [Aline Bastos](https://www.twitter.com/alinebastos));
-    
+
     - [Curso em vídeo - Lógica de Programação com Javascript](https://www.youtube.com/playlist?list=PL1dUY2RYa2RidB3B134ywckDyf-FOwbv7), por serfrontend cursos online;
 
 ---
 
 ## Git e Github
 
-- Git e Github:  
-    - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/), por Willian Justen (Dica da [Aline Bastos](https://www.twitter.com/alinebastos));  
+- Git e Github:
+    - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/), por Willian Justen (Dica da [Aline Bastos](https://www.twitter.com/alinebastos));
 
 ---
 
@@ -38,5 +38,6 @@ Mostram uma visão geral da área e te indicam por onde começar.
 
 ## Guia de carreira
 
-    
+
 - [Front-end career](https://frontend.guide/), por [William Oliveira](http://woliveiras.com.br/); #PT-BR, #ENG
+- [Como se tornar um desenvolvedor Front End](https://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/), por [William Justen](https://willianjusten.com.br/);
