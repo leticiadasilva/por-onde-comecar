@@ -1,8 +1,9 @@
-# Front-end
+# Front-end  
 
-> Reuni dicas para quem deseja aprender front-end e não sabe por onde começar :)
+> Dicas para quem deseja aprender front-end e não sabe por onde começar :)  
 
----
+---  
+
 ## Lógica de programação
 
 - Curso de Lógica de Programação:
