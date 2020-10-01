@@ -22,7 +22,7 @@
 ## HTML
 
 - HTML 5:
-	- [Introdução à Linguagem HTML], por Diego Mariano (Dica do [Gustavo Dias A.](https://github.com/gfda))
+	- [Introdução à Linguagem HTML](https://www.udemy.com/share/101qTeAkQddFxVRns=/), por Diego Mariano (Dica do [Gustavo Dias A.](https://github.com/gfda))
 
 ---
 
