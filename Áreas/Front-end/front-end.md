@@ -19,6 +19,12 @@
     - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/), por Willian Justen (Dica da [Aline Bastos](https://www.twitter.com/alinebastos));  
 
 ---
+## HTML
+
+- HTML 5:
+	- [Introdução à Linguagem HTML], por Diego Mariano (Dica do [Gustavo Dias A.](https://github.com/gfda))
+
+---
 
 ## HTML, CSS
 - HTML5 + CSS3 + Javascript:
