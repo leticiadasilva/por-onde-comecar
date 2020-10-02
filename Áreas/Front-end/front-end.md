@@ -52,3 +52,5 @@ Mostram uma visão geral da área e te indicam por onde começar.
 - [Front-end career](https://frontend.guide/), por [William Oliveira](http://woliveiras.com.br/); #PT-BR, #ENG
 
 - [Como se tornar um desenvolvedor Front End](https://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/), por [William Justen](https://willianjusten.com.br/);
+
+- [15 coisas que faria se estivesse iniciando minha carreira como desenvolvedor](https://www.felipefialho.com/blog/15-coisas-que-faria-se-estivesse-iniciando-minha-carreira-como-desenvolvedor/), por [Felipe Fialho](https://github.com/felipefialho) 
