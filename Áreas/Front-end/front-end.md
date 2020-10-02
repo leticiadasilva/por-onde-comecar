@@ -36,6 +36,12 @@
 
 
 ---
+## JS Frameworks
+
+- React:
+	- [How to React](https://kentcdodds.com/blog/how-to-react), por Kent C. Dodds (Dica do [Arthur Diniz](https://arthurvdiniz.me))
+
+---
 
 ## Roadmaps
 
