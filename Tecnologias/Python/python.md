@@ -15,16 +15,5 @@
   
 - [Pythonicos](https://www.youtube.com/watch?v=esW-3ZfatyM&list=PLIfZMtpPYFP4seAqp3K96-PPVFCgX6Zlg&ab_channel=PapoBin%C3%A1rio), por Canal Papo Binário (Dica da [Carolis](https://twitter.com/caroliscaroles));
 
-
-
-
-
-## Data Science
-
-- Cursos:
-   - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos), por Data Science Academy (Dica do Wesley Alves);  
-   
-- Livros
-    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
-
-
+## Livros
+- [Pense em Python](https://penseallen.github.io/PensePython2e/), por (Allen B. Downey) (Dica do [Gabriel Fonseca](https://github.com/gabriel19913)):
