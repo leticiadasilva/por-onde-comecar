@@ -1,0 +1,1 @@
+  - [Curso Grátis "Aprenda Go" em Português BR](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo), por Ellen Körbes (Dica da [Carolis](https://twitter.com/caroliscaroles));
