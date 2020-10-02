@@ -1,1 +1,1 @@
- 
+- [Aprendendo a dar Feedbacks Construtivos](https://qulture.rocks/blog/aprendendo-a-dar-feedbacks/), por Blog Qulture Rocks (Dica da [Carolis](https://twitter.com/caroliscaroles));

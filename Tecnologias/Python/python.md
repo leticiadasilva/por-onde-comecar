@@ -12,6 +12,9 @@
 - [Introdução à Ciência da Computação com Python Parte 2](https://www.coursera.org/learn/ciencia-computacao-python-conceitos-2), por USP (Dica do Wesley Alves);  
 
 - [Python para Zumbis](https://www.youtube.com/watch?v=YO58tXerKDc&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc), por (Fernando Masanori) (Dica do [Vinicius Rodrigues](https://twitter.com/suburbanizar));
+  
+- [Pythonicos](https://www.youtube.com/watch?v=esW-3ZfatyM&list=PLIfZMtpPYFP4seAqp3K96-PPVFCgX6Zlg&ab_channel=PapoBin%C3%A1rio), por Canal Papo Binário (Dica da [Carolis](https://twitter.com/caroliscaroles));
+
 
 
 
