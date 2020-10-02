@@ -12,6 +12,7 @@ Mostram uma visão geral da área e te indicam por onde começar.
 
 - [Como iniciar na carreira de ciência de dados?](https://medium.com/@mikaeriohana/como-iniciar-na-carreira-de-ci%C3%AAncia-de-dados-9b37aa525181), por [Mikaeri Ohana](https://https://twitter.com/mikaeriohana)
 
+- [A Quarentena do Cientista de Dados, o que estudar?](https://medium.com/data-hackers/a-quarentena-do-cientista-de-dados-o-que-estudar-f6eefb0a7778), por [Lucas Morato](https://twitter.com/lmmfrederico)
 
 ## Python  
 
