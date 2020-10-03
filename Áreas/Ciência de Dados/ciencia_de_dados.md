@@ -14,7 +14,13 @@ Mostram uma visão geral da área e te indicam por onde começar.
 
 - [A Quarentena do Cientista de Dados, o que estudar?](https://medium.com/data-hackers/a-quarentena-do-cientista-de-dados-o-que-estudar-f6eefb0a7778), por [Lucas Morato](https://twitter.com/lmmfrederico)
 
-## Python  
+## Python
+
+- Cursos:
+   - [Python Fundamentos para Análise de Dados](https://www.datascienceacademy.com.br/course?courseid=python-fundamentos), por Data Science Academy (Dica do Wesley Alves);  
+   
+- Livros
+    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);
 
 - Python + Ciência de dados:
 [Data-Science-for-Everyone](https://github.com/Marcos314/Data-Science-for-Everyone), por[Marcos Wesley](https://www.linkedin.com/in/marcos-wsa/) #PT-BR, #ENG
