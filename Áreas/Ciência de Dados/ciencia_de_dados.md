@@ -17,7 +17,7 @@ Mostram uma visão geral da área e te indicam por onde começar.
 ## Python  
 
 - Python + Ciência de dados:
-[Data-Science-for-Everyone](https://github.com/Marcos314/Data-Science-for-Everyone), por[Marcos Wesley](https://www.linkedin.com/in/marcos-wsa/)
+[Data-Science-for-Everyone](https://github.com/Marcos314/Data-Science-for-Everyone), por[Marcos Wesley](https://www.linkedin.com/in/marcos-wsa/) #PT-BR, #ENG
 
 ## R  
 
