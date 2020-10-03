@@ -1,7 +1,11 @@
 # PHP
+> Cursos sobre a linguagem PHP
 
+> A lista de cursos está organizada em ordem alfabetica e por região.
 ---
  
+# Cursos Brasileiros
+
 ## Iniciando com PHP
   - [PHP do Jeito Certo](http://br.phptherightway.com/), por (Josh Lockhart)[https://github.com/codeguy] traduzido por (PHPSP)[https://phpsp.org.br] (Dica do [@leopersan](https://github.com/leopersan);
 

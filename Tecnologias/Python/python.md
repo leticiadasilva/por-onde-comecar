@@ -2,7 +2,9 @@
 
 > Reuni dicas para quem deseja aprender Python e/ou alguma de suas áreas de aplicação e não sabe por onde começar :)
 
+> A lista de cursos está organizada em ordem alfabetica e por região.
 ---
+# Cursos Brasileiros
 ## Cursos gerais:
 
 - [Curso em vídeo - Python](https://www.youtube.com/playlist?list=PLvE-ZAFRgX8hnECDn1v9HNTI71veL3oW0), por Gustavo Guanabara (Dica do Wesley Alves);
@@ -26,5 +28,3 @@
    
 - Livros
     - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
-
-

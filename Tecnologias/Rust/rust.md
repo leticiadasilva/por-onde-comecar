@@ -1,14 +1,22 @@
 # Rust
+> Cursos sobre a linguagem Rust
 
+> A lista de cursos está organizada em ordem alfabetica e por região.
 ---
+
+# Materiais gerais:
+## Cursos Brasileiros
+ - [iniciando com Rust](https://developer.mozilla.org/pt-BR/docs/Mozilla/Rust), por (Mozilla) (Dica do/da/de [@codingsh](https://github.com/developerfred));
+ - [Um tour por Rust](https://tourofrust.com/00_pt-br.html), por [Richard Anaya](https://github.com/richardanaya) (Dica do [Vitor Almeida](https://mobile.twitter.com/_euEvito));
+## Cursos Estrangeiros🌎
  
-## Materiais gerais:
-  - [iniciando com Rust](https://developer.mozilla.org/pt-BR/docs/Mozilla/Rust), por (Mozilla) (Dica do/da/de [@codingsh](https://github.com/developerfred));
   - [A half-hour to learn Rust](https://fasterthanli.me/articles/A-half-hour-to-learn-Rust), por Amos ([@fasterthanlime](https://twitter.com/fasterthanlime)) (Dica do [Vitor Almeida](https://mobile.twitter.com/_euEvito)) #ENG;  
-  - [Um tour por Rust](https://tourofrust.com/00_pt-br.html), por [Richard Anaya](https://github.com/richardanaya) (Dica do [Vitor Almeida](https://mobile.twitter.com/_euEvito));
+  
   - [Rust explained with easy english](https://github.com/Dhghomon/easy_rust), por [Dave MacLeod](https://mobile.twitter.com/mithridates) (Dica do [Vitor Almeida](https://mobile.twitter.com/_euEvito)) #ENG;
 
-## Modelo de memória/Ownership:
+# Modelo de memória/Ownership:
+
+## Cursos Estrangeiros🌎
   - [Learn Rust by writing Entirely Too Many linked lists](https://github.com/rust-unofficial/too-many-lists) #ENG;
   - [Declarative memory management](https://fasterthanli.me/articles/declarative-memory-management), por Amos ([@fasterthanlime](https://twitter.com/fasterthanlime)) (Dica do [Vitor Almeida](https://mobile.twitter.com/_euEvito)) #ENG;
 
