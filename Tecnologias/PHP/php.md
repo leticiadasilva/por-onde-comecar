@@ -5,6 +5,7 @@
 ## Iniciando com PHP
   - [PHP do Jeito Certo](http://br.phptherightway.com/), por (Josh Lockhart)[https://github.com/codeguy] traduzido por (PHPSP)[https://phpsp.org.br] (Dica do [@leopersan](https://github.com/leopersan);
   - [Curso de PHP para Iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dm4beCCCmW4xwpmLf6EHY9k), por Gustavo Guanabara (Dica do [Lucas Marçal](https://github.com/lucasmc64);
+  - [Curso de POO PHP](https://www.youtube.com/playlist?list=PLHz_AreHm4dmGuLII3tsvryMMD7VgcT7x), por Gustavo Guanabara (Dica do [Lucas Marçal](https://github.com/lucasmc64);
 
 ---
 
