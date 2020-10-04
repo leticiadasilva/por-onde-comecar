@@ -15,6 +15,12 @@
   
 - [Pythonicos](https://www.youtube.com/watch?v=esW-3ZfatyM&list=PLIfZMtpPYFP4seAqp3K96-PPVFCgX6Zlg&ab_channel=PapoBin%C3%A1rio), por Canal Papo Binário (Dica da [Carolis](https://twitter.com/caroliscaroles));
 
+## Livros gratuitos:
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), por Al Sweigart (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #ENG;
+
+- [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/), por Kenneth Reitz e Tanya Schlusse (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #ENG;
+
+- [Pense em Python](https://penseallen.github.io/PensePython2e/), por Allen B. Downey (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #PT-BR;
 
 ## Lógica de Programação
 
