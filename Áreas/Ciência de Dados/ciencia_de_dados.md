@@ -33,7 +33,9 @@ Mostram uma visão geral da área e te indicam por onde começar.
 
 ## R  
 
---- 
+- Livros
+   - [R for Data Science](https://r4ds.had.co.nz/) #ENG;
+   - [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r)#PT-BR
 
 ## SQL  
 
