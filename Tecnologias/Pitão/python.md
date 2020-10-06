@@ -15,6 +15,8 @@
   
 - [Pythonicos](https://www.youtube.com/watch?v=esW-3ZfatyM&list=PLIfZMtpPYFP4seAqp3K96-PPVFCgX6Zlg&ab_channel=PapoBin%C3%A1rio), por Canal Papo Binário (Dica da [Carolis](https://twitter.com/caroliscaroles));
 
+-  [Intro dução à programação com Python](https://web.digitalinnovation.one/course/introducao-a-programacao-com-python/learning/1a4f5956-fe77-4e5a-bc3a-5364e06b5c79/), por Digital Innovation One (Dica da [Celenny Cristhyne](https://github.com/celenny));
+
 ## Livros gratuitos:
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), por Al Sweigart (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #ENG;
 
