@@ -20,3 +20,20 @@
 
    - [Curso de POO Java](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY), por Gustavo Guanabara (Dica do [Lucas Marçal](https://github.com/lucasmc64/))
   
+---
+
+   - [Curso Desenvolvimento básico em Java](https://digitalinnovation.one/cursos/desenvolvimento-basico-em-java), por Digital Innovation One
+   
+---
+
+   - [Curso Desenvolvimento avançado em Java](https://digitalinnovation.one/cursos/desenvolvimento-avancado-em-java), por Digital Innovation One
+      
+---
+
+   - [Bootcamp Java Developer](https://digitalinnovation.one/bootcamps/java-developer?ref=uaitec), por Digital Innovation One
+---
+
+   - [Trilha Java](https://www.maisprati.com.br/trilhas/), por +praTI
+
+   
+   
