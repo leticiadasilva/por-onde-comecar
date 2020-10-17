@@ -14,3 +14,8 @@
 
 ## PHP-CLI
   - [PHP-CLI em sete passos](https://pt.slideshare.net/henriquemoody/phpcli-em-7-passos-16269106), por [Henrique Moody](https://github.com/henriquemoody) (Dica do [@leopersan](https://github.com/leopersan));
+  
+---
+
+## Laravel
+  - [Curso Laravel 6.x](https://www.youtube.com/playlist?list=PLVSNL1PHDWvQBtcH_4VR82Dg-aFiVOZBY), por [EspecializaTI](https://www.especializati.com.br/) (Dica do [@phenriqueleao](https://github.com/phenriqueleao));
