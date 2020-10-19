@@ -34,6 +34,8 @@
 - HTML5 + CSS3 + Javascript:
     - [Curso de HTML5 completo](https://www.youtube.com/playlist?list=PLHz_AreHm4dlAnJ_jJtV29RFxnPHDuk9o), por Gustavo Guanabara (Dica da [Aline Bastos](https://www.twitter.com/alinebastos))
     - [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila/apostila-html-css-javascript.pdf?fbclid=IwAR32oGKAOhdzllyoUHgJUPhBdeJjVgSdWYZmJjelDs8JH3t4MvepSvJhbJ4), por Caelum (Dica da [Carolina Soares](https://github.com/MariaCarolinass/));
+    - [HTML5 E CSS3 - atualizado 2020](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n), por Gustavo Guanabara
+    - [WorkshopDev Especial](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka), por Rocketseat
 - CSS:
     - [Pare de chutar e aprenda as propriedades CSS de posicionamento](https://www.youtube.com/playlist?list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x), por Marco Bruno.
 
