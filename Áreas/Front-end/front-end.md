@@ -47,7 +47,8 @@
 
 - React:
 	- [How to React](https://kentcdodds.com/blog/how-to-react), por Kent C. Dodds (Dica do [Arthur Diniz](https://arthurvdiniz.me))
-
+- TypeScript:
+        - [Curso TypeScript do Básico ao avançado](https://www.youtube.com/watch?v=Z0RlhHuw6hk&list=PL4iwH9RF8xHlxBrCZImFELtiew3TneihE),por Escola Front End (Dica da [Elaine Estainer])
 ---
 
 ## Roadmaps
