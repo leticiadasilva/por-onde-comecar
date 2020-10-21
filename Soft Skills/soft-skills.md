@@ -14,4 +14,6 @@ O que são soft skills?
 - Feedback
     - [Aprendendo a dar Feedbacks Construtivos](https://qulture.rocks/blog/aprendendo-a-dar-feedbacks/), por Blog Qulture Rocks (Dica da [Carolis](https://twitter.com/caroliscaroles));
     - [Série sobre feedback](https://medium.com/@felipedemoraes/s%C3%A9rie-sobre-feedback-dbdb852a7bfb) por Felipe de Morais;
+    - [Feedback: três dicas para deixar essa habilidade ainda melhor](https://www.linkedin.com/pulse/feedback-tr%C3%AAs-dicas-para-deixar-essa-habilidade-ainda-fernandes/) por Jurandir Fernandes;
     - [O que é um Feedback Efetivo e o que ele pode fazer pela sua carreira](https://www.programaria.org/o-que-e-um-feedback-efetivo-e-o-que-ele-pode-fazer-pela-sua-carreira/) por Laura Lemos (Dica de [Larissa Silva](https://github.com/lagcrs))
+
