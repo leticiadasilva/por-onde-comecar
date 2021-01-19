@@ -26,10 +26,13 @@ Mostram uma visão geral da área e te indicam por onde começar.
 - Python + Ciência de dados:
    - [Data-Science-for-Everyone](https://github.com/Marcos314/Data-Science-for-Everyone), por[Marcos Wesley](https://www.linkedin.com/in/marcos-wsa/) #PT-BR, #ENG
    - [Minerando Dados](https://www.youtube.com/c/MinerandoDados/videos), [SITE](www.minerandodados.com.br)
+   - [Téo Me Why - Twitch](https://www.twitch.tv/teomewhy), por [Téo Calvo](https://www.linkedin.com/in/teocalvo/)
+   - [Téo Me Why - YouTube](https://www.youtube.com/channel/UC-Xa9J9-B4jBOoBNIHkMMKA), por [Téo Calvo](https://www.linkedin.com/in/teocalvo/)
 
 - Python + Machine Learning:
    - [Machine Learning](https://github.com/Clalloures/Machine-Learning), por [Clarissa Lima](https://www.linkedin.com/in/clarissa-lima-4a26b3149/)
    - [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/videos), por [Lucas Grassano](https://twitter.com/1iversodiscreto/)
+   -[Mario Filho - Machine Learning](https://www.youtube.com/user/marionefilho), por [Mario Filho](https://www.linkedin.com/in/mariofilho/)
 
 ## R  
 
