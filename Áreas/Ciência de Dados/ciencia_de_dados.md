@@ -39,7 +39,7 @@ Mostram uma visão geral da área e te indicam por onde começar.
 
 ## SQL
 
-   - [Trilha de SQL](https://youtube.com/playlist?list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk)#PT-BR
+   - [Trilha de SQL](https://youtube.com/playlist?list=PLvlkVRRKOYFQrPsRLU-53-No8c4e-RvHk) por [Téo Calvo](https://www.linkedin.com/in/teocalvo/)
 
 ---
 
