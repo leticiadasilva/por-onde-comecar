@@ -39,6 +39,8 @@ Mostram uma visão geral da área e te indicam por onde começar.
 - Livros
    - [R for Data Science](https://r4ds.had.co.nz/) #ENG;
    - [Ciência de Dados com R](https://www.ibpad.com.br/o-que-fazemos/publicacoes/introducao-ciencia-de-dados-com-r)#PT-BR
+   - [Curso-R](https://www.youtube.com/channel/UCTXuqtCYxPVEehq6fJY9GkA)
+   - [Athos Damiani - Twitch](https://www.twitch.tv/athos_damiani), por [Athos Damiani](https://www.linkedin.com/in/athosdamiani/)
 
 ## SQL
 
