@@ -1,1 +1,4 @@
-- [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)  
+- [Learn Git Branching](https://learngitbranching.js.org/?locale=pt_BR)
+- Pro Git
+  - [pt-br](https://git-scm.com/book/pt-br/v2)
+  - [en](https://git-scm.com/book/en/v2)
