@@ -10,3 +10,4 @@
   - [Cursos gratuitos de JavaScript, ES6+, React e React Native](https://skylab.rocketseat.com.br/), por Rocketseat;
   - [Playlist sobre ES2020 ](https://www.youtube.com/watch?v=hNrSGqA3XDI&list=PLe7tlyCjYZNMM-0cahAGcZNIeD1VuZoh9&ab_channel=TautornTech), por Tautorn Tech;
   - [Aplicação com JavaScript puro: Como desenvolver uma contagem regressiva](https://www.youtube.com/watch?v=ms0mXabu5RY&list=PLpSJMw6H4PFMOJHMULTxKNOEw7g1cBuyP&index=3), por Roger Melo (Dica do [Wesley Rafael](https://github.com/WesleyyRafaell))
+  - [JavaScript: Algoritmos + Estruturas de Dados ](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j), por Everton Braga (Dica  da [celenny](https://github.com/celenny)) 
