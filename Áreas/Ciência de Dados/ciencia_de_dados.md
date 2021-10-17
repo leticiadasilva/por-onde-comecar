@@ -33,6 +33,7 @@ Mostram uma visão geral da área e te indicam por onde começar.
    - [Machine Learning](https://github.com/Clalloures/Machine-Learning), por [Clarissa Lima](https://www.linkedin.com/in/clarissa-lima-4a26b3149/)
    - [Universo Discreto](https://www.youtube.com/c/UniversoDiscreto/videos), por [Lucas Grassano](https://twitter.com/1iversodiscreto/)
    - [Mario Filho - Machine Learning](https://www.youtube.com/user/marionefilho), por [Mario Filho](https://www.linkedin.com/in/mariofilho/)
+   - [Stanford University - Machine Learning](https://www.coursera.org/learn/machine-learning), por Andrew NG #EN #PT-BR
 
 ## R  
 
