@@ -40,5 +40,3 @@
     
 - Livros
    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
-   - 
-
