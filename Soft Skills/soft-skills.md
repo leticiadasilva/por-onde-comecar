@@ -9,6 +9,9 @@
 O que são soft skills?
     - [Comunicação e soft skills - Alura Live #91](https://www.youtube.com/watch?v=McC4oh_jPgk)
 
+As 9 Softskills mais desejadas pelas empresas
+    - [As 9 Softskills mais desejadas pelas empresas | #AluraMais](https://www.youtube.com/watch?v=SjY0zj17-8U)
+
 ## Comunicação
 
 - Feedback
