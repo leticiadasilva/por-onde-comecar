@@ -8,6 +8,12 @@
 
 O que são soft skills?
     - [Comunicação e soft skills - Alura Live #91](https://www.youtube.com/watch?v=McC4oh_jPgk)
+    
+Aprendendo a aprender
+    - [Aprendendo a aprender com Fabio Akita(Codeminer42) e Guilherme Silveira (Alura)](https://www.youtube.com/watch?v=uj-k_WqlYvI)
+    
+Não terceirize suas decisões
+    - [Não Terceirize suas Decisões! | A Lição MAIS Importante da sua Vida](https://www.youtube.com/watch?v=D3L8IOncLkg)
 
 ## Comunicação
 
