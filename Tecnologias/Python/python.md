@@ -15,12 +15,18 @@
   
 - [Pythonicos](https://www.youtube.com/watch?v=esW-3ZfatyM&list=PLIfZMtpPYFP4seAqp3K96-PPVFCgX6Zlg&ab_channel=PapoBin%C3%A1rio), por Canal Papo Binário (Dica da [Carolis](https://twitter.com/caroliscaroles));
 
+- [Curso Python para Iniciantes](https://www.youtube.com/playlist?list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD), por (Didatica Tech) (Dica do Edson)
+
 ## Livros gratuitos:
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), por Al Sweigart (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #ENG;
 
 - [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/), por Kenneth Reitz e Tanya Schlusse (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #ENG;
 
 - [Pense em Python](https://penseallen.github.io/PensePython2e/), por Allen B. Downey (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #PT-BR;
+
+## Apostilas:
+
+- [22 Apostilas de Python para Baixar Grátis [PDF]](https://livrariapublica.com.br/22-apostilas-de-python-para-baixar-gratis-pdf/), por Livraria Publica (Dica do Edson)
 
 ## Lógica de Programação
 
