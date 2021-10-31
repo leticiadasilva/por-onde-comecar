@@ -36,6 +36,7 @@
     - [Desenvolvimento Web com HTML, CSS e JavaScript](https://www.caelum.com.br/apostila/apostila-html-css-javascript.pdf?fbclid=IwAR32oGKAOhdzllyoUHgJUPhBdeJjVgSdWYZmJjelDs8JH3t4MvepSvJhbJ4), por Caelum (Dica da [Carolina Soares](https://github.com/MariaCarolinass/));
     - [HTML5 E CSS3 - atualizado 2020](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n), por Gustavo Guanabara
     - [WorkshopDev Especial](https://www.youtube.com/watch?v=cprMYC8PCVY&list=PL85ITvJ7FLohGTWaE_p0J6B-TLmQbN4ka), por Rocketseat
+    - [Curso HTML e CSS feliz (Projeto Portfólio)](https://www.youtube.com/playlist?list=PLirko8T4cEmzrH3jIJi7R7ufeqcpXYaLa), por Marco Bruno
 - CSS:
     - [Pare de chutar e aprenda as propriedades CSS de posicionamento](https://www.youtube.com/playlist?list=PLirko8T4cEmx5eBb1-9j6T6Gl4aBtZ_5x), por Marco Bruno.
 
@@ -51,6 +52,11 @@
         - [Curso TypeScript do Básico ao avançado](https://www.youtube.com/watch?v=Z0RlhHuw6hk&list=PL4iwH9RF8xHlxBrCZImFELtiew3TneihE),por Escola Front End (Dica da [Elaine Estainer])
 ---
 
+## Bootcamps
+
+- Bootcamp Desenvolvedor Web Front-End:
+    - [Desenvolvedor Web Front-End](https://digitalinnovation.one/bootcamps/desenvolvedor-web-front-end), por DIO - Digital Innovation One (Dica do [João Constantino](https://joaopedro-portfolio.vercel.app/))
+---
 ## Roadmaps
 
 Mostram uma visão geral da área e te indicam por onde começar.

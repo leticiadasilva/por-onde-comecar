@@ -17,6 +17,8 @@
 
 - [Curso Python para Iniciantes](https://www.youtube.com/playlist?list=PLyqOvdQmGdTSEPnO0DKgHlkXb8x3cyglD), por (Didatica Tech) (Dica do Edson)
 
+- [Python 3 - Curso Rápido [2020]](https://www.cod3r.com.br/courses/python-3-curso-rapido), Cod3r;
+
 ## Livros gratuitos:
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), por Al Sweigart (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #ENG;
 
@@ -27,6 +29,11 @@
 ## Apostilas:
 
 - [22 Apostilas de Python para Baixar Grátis [PDF]](https://livrariapublica.com.br/22-apostilas-de-python-para-baixar-gratis-pdf/), por Livraria Publica (Dica do Edson)
+
+- [Python para Desenvolvedores 2e](https://jakevdp.github.io/WhirlwindTourOfPython/), por Ricardo Duarte. É Python 2 mas é legal. #PT-BR;
+
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/), por Jake VanderPlas  #ENG;
+
 
 ## Lógica de Programação
 
@@ -42,5 +49,3 @@
     
 - Livros
    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
-
-
