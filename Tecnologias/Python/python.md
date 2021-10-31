@@ -22,6 +22,10 @@
 
 - [Pense em Python](https://penseallen.github.io/PensePython2e/), por Allen B. Downey (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #PT-BR;
 
+- [Python para Desenvolvedores 2e](https://ricardoduarte.github.io/python-para-desenvolvedores/), por Ricardo Duarte. É Python 2 mas é legal. #PT-BR;
+
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/), por Jake VanderPlas  #ENG;
+
 ## Lógica de Programação
 
 - [Curso completo de lógica de programação](https://buildlab.com.br/aprenda-a-programar/), por BuildLab (Dica de [Fernando Silva](https://twitter.com/fernandomigas)): 
@@ -36,5 +40,3 @@
     
 - Livros
    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
-
-
