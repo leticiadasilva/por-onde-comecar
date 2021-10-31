@@ -1,13 +1,9 @@
  # Angular
 
-> Cursos sobre o framework de código aberto do JavaScript.
+- Cursos sobre o framework de código aberto do JavaScript;
 
----
 
     - [Angular do iniciante ao Intermediário](https://loiane.training/curso/angular), por Loiane Groner;
-   
---- 
+    - [Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial), por Cod3r;
 
-   - [Curso Angular 9](https://www.youtube.com/watch?v=5vPaoV9SV5U&list=PL8iIphQOyG-DSLV6qWs8wh37o0R_F9Q_Q), por Michelli Brito
-   
---- 
+

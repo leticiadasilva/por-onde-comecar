@@ -6,3 +6,5 @@
 - [Curso de Kotlin](https://www.youtube.com/watch?v=U1bxClvmERM&list=PLPs3nlHFeKTr-aDDvUxU971rPSVTyQ6Bn), por Douglas Motta (Dica de [Victor castro](https://github.com/KastroWalker))
 
 - [Kotlin for java developers](https://pt.coursera.org/learn/kotlin-for-java-developers) [EN], por JetBrains (Dica de [Victor castro](https://github.com/KastroWalker))
+
+- [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012), por Google (Dica de [Nathalia Albuquerque](https://github.com/nathhia)) #ENG
