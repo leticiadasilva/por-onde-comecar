@@ -15,6 +15,9 @@
   
 - [Pythonicos](https://www.youtube.com/watch?v=esW-3ZfatyM&list=PLIfZMtpPYFP4seAqp3K96-PPVFCgX6Zlg&ab_channel=PapoBin%C3%A1rio), por Canal Papo Binário (Dica da [Carolis](https://twitter.com/caroliscaroles));
 
+- [Python 3 - Curso Rápido [2020]](https://www.cod3r.com.br/courses/python-3-curso-rapido), Cod3r;
+
+
 ## Livros gratuitos:
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), por Al Sweigart (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #ENG;
 
