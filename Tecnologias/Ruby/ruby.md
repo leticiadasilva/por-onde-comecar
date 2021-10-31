@@ -8,6 +8,8 @@
 
 [Ruby Crash Curse da FreeCodeCamp](https://www.youtube.com/watch?v=t_ispmWmdjY) em inglês feito pelo [Mike Dane](https://github.com/mikedane)
 
+[Aprenda X em Y Minutos](https://learnxinyminutes.com/docs/pt-br/ruby-pt/) (dica do [@humrenan](https://github.com/humrenan/))
+
 # Iniciando com Rails
 
 [Rails4Noobs](https://github.com/edersonferreira/rails4noobs) em português feito pelo [Ederson Ferrreira](https://github.com/edersonferreira/)
