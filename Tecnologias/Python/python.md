@@ -43,3 +43,7 @@
     
 - Livros
    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
+
+## Palestras
+
+- [Afinal, por que Python?](https://www.youtube.com/watch?v=MyDn7NY3BTM), por [Letícia Silva](twitter.com/dii_lua) na SECOMP do Instituto Federal do Sudeste de Minas Gerais;
