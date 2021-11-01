@@ -1,6 +1,9 @@
-# Kubernetes
+# DevOps
+
+> Dicas para quem deseja aprender devops e não sabe por onde começar :)
 
 ---
+# Kubernetes
 
 ## Conceitos e Arquitetura:
 
