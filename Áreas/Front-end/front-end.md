@@ -27,7 +27,7 @@
 	- [Introdução à Linguagem HTML](https://www.udemy.com/share/101qTeAkQddFxVRns=/), por Diego Mariano (Dica do [Gustavo Dias A.](https://github.com/gfda))
 	- [HTML básico - códigos HTML](https://www.devmedia.com.br/html-basico-codigos-html/16596), por DevMedia (Dica da [Carolina Soares](https://github.com/MariaCarolinass/))
 	- [HTML: Linguagem de Marcação de Hipertexto](https://developer.mozilla.org/pt-BR/docs/Web/HTML), por MDN web docs (Dica da [Carolina Soares](https://github.com/MariaCarolinass/))
-
+	- [HTML: Todas as tags](https://www.youtube.com/playlist?list=PL-u8JWLN6xau0QpzuOTeTI954SsIGEsVA), por HCODE (Dica do [Junior Mendes](https://github.com/e-mendesjr))
 ---
 
 ## HTML, CSS
