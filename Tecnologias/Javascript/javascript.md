@@ -12,3 +12,5 @@
   - [Aplicação com JavaScript puro: Como desenvolver uma contagem regressiva](https://www.youtube.com/watch?v=ms0mXabu5RY&list=PLpSJMw6H4PFMOJHMULTxKNOEw7g1cBuyP&index=3), por Roger Melo (Dica do [Wesley Rafael](https://github.com/WesleyyRafaell))
   - [JavaScript: Algoritmos + Estruturas de Dados ](https://www.youtube.com/playlist?list=PLpfKv2Mn_c-HTFozSx8iplzzBlQJnPs2j), por Everton Braga (Dica  da [celenny](https://github.com/celenny)) 
   - [JavaScript Pro Tips - Code This, NOT That ](https://www.youtube.com/watch?v=Mus_vwhTCq0), por Fireship (Dica  do [rodrigo102](https://github.com/rodrigo102)) #ENG 
+  - [Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU&list=RDCMUCm63tB8wsKOVvxoU4iMpS2A&start_radio=1), por Jhonatan de Souza @DevAprender;
+  - [Curso JS Moderno (ES6+)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi), por Willian Justen;
