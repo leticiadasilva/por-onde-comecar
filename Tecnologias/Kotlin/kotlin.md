@@ -8,3 +8,7 @@
 - [Kotlin for java developers](https://pt.coursera.org/learn/kotlin-for-java-developers) [EN], por JetBrains (Dica de [Victor castro](https://github.com/KastroWalker))
 
 - [Developing Android Apps with Kotlin](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012), por Google (Dica de [Nathalia Albuquerque](https://github.com/nathhia)) #ENG
+
+- Explorando a documentação:
+    - [Criando variáveis no Kotlin](https://dev.to/kotlinautas/criando-variaveis-no-kotlin-explorando-a-documentacao-4a4g) por [Morganna Giovanelli](https://twitter.com/morgannadev)
+    - [Explorando a documentação: Números em Kotlin](https://dev.to/kotlinautas/explorando-a-documentacao-numeros-em-kotlin-15go)
