@@ -19,7 +19,7 @@
     - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/), por Willian Justen (Dica da [Aline Bastos](https://www.twitter.com/alinebastos));
     - [Curso de Git e Github](https://www.cursoemvideo.com/course/curso-de-git-e-github/), por curso em video (Dica da [Carolina Soares](https://github.com/MariaCarolinass/))
     - [Introdução ao Git e ao GitHub](https://web.digitalinnovation.one/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/) , por Digital Innovation One (Dica da [Celenny Cristhyne](https://github.com/celenny))
-    - [[pt-BR] REDAMEs DO GITHUB: IDEIAS... E DICAS](https://dev.to/acaverna/pt-br-redames-do-github-ideias-e-dicas-4p3d)
+    - [[pt-BR] REDAMEs DO GITHUB: IDEIAS... E DICAS](https://dev.to/acaverna/pt-br-redames-do-github-ideias-e-dicas-4p3d) por [Leticia Pegoraro](https://github.com/LelePG)
 ---
 ## HTML
 
