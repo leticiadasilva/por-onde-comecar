@@ -11,6 +11,7 @@ O que são soft skills?
     
 Aprendendo a aprender
     - [Aprendendo a aprender com Fabio Akita(Codeminer42) e Guilherme Silveira (Alura)](https://www.youtube.com/watch?v=uj-k_WqlYvI)
+    - [Aprendendo com o método 3C](https://www.twitch.tv/videos/1438780505?collection=6rWTuUld4BY8Sw) por [Lissa](https://twitter.com/lisstransborda)
     
 Não terceirize suas decisões
     - [Não Terceirize suas Decisões! | A Lição MAIS Importante da sua Vida](https://www.youtube.com/watch?v=D3L8IOncLkg)
