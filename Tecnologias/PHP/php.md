@@ -9,7 +9,7 @@
   - [Curso de PHP Básico](https://www.schoolofnet.com/curso/php/linguagem-php/iniciando-com-php/), por  School of Net (Dica do [@eduardojansen](https://github.com/eduardojansen));
   - [Novidades do PHP 7.1](https://www.schoolofnet.com/curso/php/linguagem-php/novidades-do-php71/), por  School of Net (Dica do [@eduardojansen](https://github.com/eduardojansen));
   - [Curso completo de PHP](https://jornadadodev.com.br/cursos/curso-completo-de-php), por  Jornada Do Dev (Dica do [@eduardojansen](https://github.com/eduardojansen));
-
+  - [Boas práticas](https://www.youtube.com/watch?v=KV3_NCnwSto&list=PL3j2sfzg3FPur68OYGgSZ72RYI3unPQpx), por Vinicius Dias.
 ---
 
 ## PHP-CLI
