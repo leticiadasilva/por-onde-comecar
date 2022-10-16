@@ -38,5 +38,13 @@
    
    - [Maratona Java](https://www.youtube.com/watch?v=kkOSweUhGZM&list=PL62G310vn6nHrMr1tFLNOYP_c73m6nAzL), por William Suane.
    
---- 
+---
+
+   - [Curso Java para iniciantes](https://www.youtube.com/playlist?list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR), por Gustavo Guanabara.
+
+---
+
+   - [Curso Padrões de Projeto com Java](https://www.youtube.com/playlist?list=PLuYctAHjg89bBeh25plGraaYiAsryusw6), por Rinaldo.
+
+---
    
