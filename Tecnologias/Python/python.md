@@ -49,6 +49,14 @@
     
 - Livros
    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
+   
+## Bioinformática
+
+- Cursos:
+  - [Introdução a Python e Biopython para Bioinformática](https://www.youtube.com/watch?v=AI_B0Q2I-oM&list=PL-F08sZPKH8FAx9SxR_aE21XGExvuD89H), pelos discentes da UFPR (Dica do Alef Janguas);
+  - [Biopython - Introdução à análise de dados biológicos](https://www.youtube.com/watch?v=AI_B0Q2I-oM&list=PL-F08sZPKH8FAx9SxR_aE21XGExvuD89H), por Diego Mariano (Dica do Alef Janguas);
+- Livros:
+  - [Biopython Tutorial and Cookbook](http://biopython.org/DIST/docs/tutorial/Tutorial.html), por Jeff Chang (Dica do Alef Janguas) #ENG;
 
 ## Machine Learning
    - [Curso Completo de Machine Learning - Universo Discreto](https://youtube.com/playlist?list=PL-t7zzWJWPtzhZtI-bWWHFtCfxtjmBdIW), por Universo Discreto (Dica do [Alexandre Caribé](https://github.com/AlexandreCaribe)) #PT-BR;  
