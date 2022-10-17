@@ -50,6 +50,10 @@
 - Livros
    - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);  
 
+## Machine Learning
+   - [Curso Completo de Machine Learning - Universo Discreto](https://youtube.com/playlist?list=PL-t7zzWJWPtzhZtI-bWWHFtCfxtjmBdIW), por Universo Discreto (Dica do [Alexandre Caribé](https://github.com/AlexandreCaribe)) #PT-BR;  
+
+
 ## Palestras
 
 - [Afinal, por que Python?](https://www.youtube.com/watch?v=MyDn7NY3BTM), por [Letícia Silva](twitter.com/dii_lua) na SECOMP do Instituto Federal do Sudeste de Minas Gerais;
