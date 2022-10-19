@@ -3,7 +3,8 @@
   - [Curso Grátis "Aprenda Go" em Português BR](https://www.youtube.com/watch?v=WiGU_ZB-u0w&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&ab_channel=AprendaGo), por Ellen Körbes (Dica da [Carolis](https://twitter.com/caroliscaroles));
   - [Aprenda Go/Golang](https://www.youtube.com/playlist?list=PLUbb2i4BuuzCX8CLeArvx663_0a_hSguW), por NBK Mundo Tech;
   - [Aprenda Golang](https://www.youtube.com/c/AprendaGolang/videos) por Tiago Temporin;
-- [Curso Desenvolvimento Web com Go](https://eltonminetto.dev/post/2021-03-32-curso-go/), por Elton Minetto
+- [Curso Desenvolvimento Web com Go](https://eltonminetto.dev/post/2021-03-32-curso-go/), por Elton Minetto;
+- [Getting Started with Go](https://eltonminetto.dev/post/2021-03-32-curso-go/), por Ian Harris #ENG (possui legendas em português)
 
 ## Lógica de programação
 
