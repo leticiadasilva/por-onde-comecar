@@ -47,4 +47,6 @@
    - [Curso Padrões de Projeto com Java](https://www.youtube.com/playlist?list=PLuYctAHjg89bBeh25plGraaYiAsryusw6), por Rinaldo.
 
 ---
+      
+   - [Livro de Java e Orientação à Objeto](https://www.caelum.com.br/apostila/apostila-java-orientacao-objetos.pdf), por Alura (Dica da [Iagatha Souza](https://github.com/iagatha)): 
    
