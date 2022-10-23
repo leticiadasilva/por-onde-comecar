@@ -13,7 +13,10 @@
 
 - Bootcamp Backend Developer Carrefour:
     - [Backend Developer Carrefour](https://digitalinnovation.one/bootcamps/backend-developer-carrefour), por DIO - Digital Innovation One (Dica da [João Constantino](https://www.twitter.com/const_ntino));
-
+    
+    
 ## Regex
 
-    - [Expressões Regulares](https://dev.to/feministech/expressoes-regulares-i-o-basico-3a3j) por [Patrícia Villela](https://twitter.com/patriciaverso)
+- Expressões Regulares :
+    - [Expressões Regulares I - o básico](https://dev.to/feministech/expressoes-regulares-i-o-basico-3a3j), por Patrícia Villela (Dica da [Patrícia Villela](https://twitter.com/patriciaverso));
+
