@@ -42,7 +42,7 @@ Criei esse repositório com o intuito de reunir um pouco do conteúdo que vejo v
 
 ### Bons estudos!
 
-Beijinhos, [Lê](https://leticiadasilva.github.io)! <3
+Beijinhos, [Lê](https://www.linkedin.com/in/leticiasilvar/)! <3
 
 <p align="center"> 
 <img src="https://media.giphy.com/media/GB0lKzzxIv1te/giphy.gif">

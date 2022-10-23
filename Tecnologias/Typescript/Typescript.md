@@ -1,3 +1,5 @@
+# Typescript
+
 - [TypeScript - O que é e quais os seus benefícios?](https://www.youtube.com/watch?v=kg2-SMolAV0), por Diego Fernandes, Rocketseat (Dica de [João Constantino](https://joaopedro-portfolio.vercel.app/));
 
 - [Guia introdutório ao Typescript](https://github.com/Carolis/typescript4noobs), por Carolina Ale (Dica da [Carolis](https://twitter.com/caroliscaroles));
