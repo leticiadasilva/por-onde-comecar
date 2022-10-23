@@ -14,3 +14,4 @@
   - [JavaScript Pro Tips - Code This, NOT That ](https://www.youtube.com/watch?v=Mus_vwhTCq0), por Fireship (Dica  do [rodrigo102](https://github.com/rodrigo102)) #ENG 
   - [Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos](https://www.youtube.com/watch?v=i6Oi-YtXnAU&list=RDCMUCm63tB8wsKOVvxoU4iMpS2A&start_radio=1), por Jhonatan de Souza @DevAprender;
   - [Curso JS Moderno (ES6+)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi), por Willian Justen;
+  - [Algoritmos e estruturas de dados em JavaScript](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/), por FreeCodeCamp (Dica do [gildoneto](https://github.com/gildoneto))
