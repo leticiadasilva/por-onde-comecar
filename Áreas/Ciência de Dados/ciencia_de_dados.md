@@ -22,6 +22,8 @@ Mostram uma visão geral da área e te indicam por onde começar.
    
 - Livros
     - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook), por Jake VanderPlas (Dica do Wesley Alves);
+    - [Data Science do Zero: Primeiras Regras com Python](https://edisciplinas.usp.br/pluginfile.php/5742167/mod_resource/content/1/Data%20Science%20do%20zero%20-%20Primeiras%20regras.pdf), por Joel Grus (Dica do Jaime Oliveira);
+    - [Pense em Python](https://penseallen.github.io/PensePython2e/), por Allen B. Downey (Dica do Jaime Oliveira);
 
 - Python + Ciência de dados:
    - [Data-Science-for-Everyone](https://github.com/Marcos314/Data-Science-for-Everyone), por[Marcos Wesley](https://www.linkedin.com/in/marcos-wsa/) #PT-BR, #ENG
