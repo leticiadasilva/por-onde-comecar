@@ -67,3 +67,4 @@
 ## Palestras
 
 - [Afinal, por que Python?](https://www.youtube.com/watch?v=MyDn7NY3BTM), por [Letícia Silva](twitter.com/dii_lua) na SECOMP do Instituto Federal do Sudeste de Minas Gerais;
+- [Python Week - 2022](https://www.youtube.com/playlist?list=PLf-O3X2-mxDlfAv8IOfic1sHArdwrrkgh), por LinuxTips com [Bruno Rocha](https://twitter.com/rochacbruno) e [Jeferson Fernando](https://twitter.com/badtux_);
