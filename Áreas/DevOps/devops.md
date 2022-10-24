@@ -3,6 +3,11 @@
 > Dicas para quem deseja aprender devops e não sabe por onde começar :)
 
 ---
+
+## Resumo e Roteiros
+  - [Como começar na carreira de DevOps](https://gomex.me/blog/primeiros_passos_devops/), por Rafael Gomex;
+  - [Repositório de conteudo gratuito GUIA DEVOPS - BRASIL](https://github.com/waltenne/guiadevopsbrasil), por Waltenne Carvalho;
+
 # Kubernetes
 
 ## Conceitos e Arquitetura:
