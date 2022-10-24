@@ -10,6 +10,8 @@
 
 - [Tópicos sobre Elixir no DevTo](https://dev.to/t/elixir) #ENG e #PTBR;
 
+- [elixirschool](https://elixirschool.com/pt/lessons/basics/basics) (conteúdo para ensiar Elixir separado por níveis, além de abordar as principais bibliotecas utilizadas no ecosistema da linguagem).
+
 
 # Entendendo principios básicos sobre o Erlang/BEAM (Intermediário/Avançado)
 
