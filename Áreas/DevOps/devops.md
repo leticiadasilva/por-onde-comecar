@@ -3,10 +3,20 @@
 > Dicas para quem deseja aprender devops e não sabe por onde começar :)
 
 ---
+# Geral
 
 ## Resumo e Roteiros
   - [Como começar na carreira de DevOps](https://gomex.me/blog/primeiros_passos_devops/), por Rafael Gomex;
   - [Repositório de conteudo gratuito GUIA DEVOPS - BRASIL](https://github.com/waltenne/guiadevopsbrasil), por Waltenne Carvalho;
+
+## Cursos
+  - [Curso Gratuito DevOps Essentials](https://4linux.com.br/cursos/treinamento/devops-essentials/), por 4Linux;
+  - [Curso DevOps & Agile Culture](https://www.eucapacito.com.br/curso-ec/devops-agile-culture), por plataforma Eu Capacito e FIAP;
+
+# Docker
+
+## Cursos
+  - [Curso Descomplicando o Docker - 2016](https://www.youtube.com/playlist?list=PLf-O3X2-mxDkiUH0r_BadgtELJ_qyrFJ_), por LINUXtips;
 
 # Kubernetes
 
