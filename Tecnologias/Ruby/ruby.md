@@ -10,6 +10,8 @@
 
 - [Aprenda X em Y Minutos](https://learnxinyminutes.com/docs/pt-br/ruby-pt/) (dica do [@humrenan](https://github.com/humrenan/));
 
+- [Ruby Puro](https://onebitcode.com/course/ruby-puro/) por OneBitCode (dica do [Tony Lima](https://github.com/tony-matheus));
+
 ## Iniciando com Rails
 
 - [Rails4Noobs](https://github.com/edersonferreira/rails4noobs) em português feito pelo [Ederson Ferrreira](https://github.com/edersonferreira/);
