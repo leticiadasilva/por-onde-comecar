@@ -33,6 +33,8 @@
 - [Python para Desenvolvedores 2e](https://jakevdp.github.io/WhirlwindTourOfPython/), por Ricardo Duarte. É Python 2 mas é legal. #PT-BR;
 
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/), por Jake VanderPlas  #ENG;
+  
+- [Pensando Tkinter](https://www.dcc.ufrj.br/~fabiom/mab225/PensandoTkinter.pdf), por Steven Ferg;
 
 
 ## Lógica de Programação
