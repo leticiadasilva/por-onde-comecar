@@ -18,4 +18,3 @@
 
   - [Introdução na pratica](https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40)
   (Dica do [Krydelmany](https://www.instagram.com/mrgiovaniii/));
-
