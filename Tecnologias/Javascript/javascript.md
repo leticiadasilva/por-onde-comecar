@@ -25,3 +25,5 @@
 - [Curso JS Moderno (ES6+)](https://www.youtube.com/playlist?list=PLlAbYrWSYTiPQ1BE8klOtheBC0mtL3hEi), por Willian Justen;
 
 - [Algoritmos e estruturas de dados em JavaScript](https://www.freecodecamp.org/portuguese/learn/javascript-algorithms-and-data-structures/), por FreeCodeCamp (Dica do [gildoneto](https://github.com/gildoneto))
+
+- [Eloquent Javascript](https://eloquentjavascript.net/), por Marijn Haverbeke (dica do [Tony Lima](https://github.com/tony-matheus)) #ENG e #PTBR;
