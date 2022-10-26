@@ -66,6 +66,16 @@
    - [Curso Completo de Machine Learning - Universo Discreto](https://youtube.com/playlist?list=PL-t7zzWJWPtzhZtI-bWWHFtCfxtjmBdIW), por Universo Discreto (Dica do [Alexandre Caribé](https://github.com/AlexandreCaribe)) #PT-BR;  
 
 
+## Automação
+
+  - [Automate with Python](https://www.youtube.com/watch?v=PXMJ6FS7llk), por FreeCodeCapm #ENG;
+
+  - [Get started using Python on Windows for scripting and automation](https://learn.microsoft.com/en-us/windows/python/scripting), por Microsoft Learn #ENG;
+
+  - [Azure Automation SDK for Python](https://learn.microsoft.com/en-us/python/api/overview/azure/mgmt-automation-readme?view=azure-python), por Microsoft Learn #ENG;
+
+  - [Best Python Modules for Automation](https://www.geeksforgeeks.org/best-python-modules-for-automation/), por GeeksForGeeks #ENG;
+
 ## Palestras
 
 - [Afinal, por que Python?](https://www.youtube.com/watch?v=MyDn7NY3BTM), por [Letícia Silva](twitter.com/dii_lua) na SECOMP do Instituto Federal do Sudeste de Minas Gerais;
