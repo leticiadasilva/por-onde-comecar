@@ -20,4 +20,6 @@
 
 # Playlist YouTube
 
+- [Iniciando em Elixir - codehints](https://www.youtube.com/watch?v=sW_uotba0mY&list=PLgYbOziA30iZo9dZu2Ygq78D1LtdjhnK6) por Jean Carlos.
+
 - [Criando uma API com Elixir](https://www.youtube.com/watch?v=EmHfoH3FOM0&list=PLuNXOD_m9Am7Kmgk8lOO5fS-kjScNZBLT) utiliza o Phoenix Framework para criar uma API de votação.
