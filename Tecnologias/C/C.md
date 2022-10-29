@@ -4,6 +4,8 @@
 
 ## C, do básico ao avançado:
 
+  - [Curso de Programação C Completo](https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA), por Programe seu futuro (Dica do [Luis Felipe Cracco](https://github.com/LuisFelipeCracco));
+
   - [Programação Moderna em C](https://www.youtube.com/watch?v=oZeezrNHxVo&list=PLIfZMtpPYFP5qaS2RFQxcNVkmJLGQwyKE&ab_channel=PapoBin%C3%A1rio), por Canal Papo Binário (Dica da [Carolis](https://twitter.com/caroliscaroles));
 
   - [Linguagem C Programação Descomplicada](https://www.youtube.com/user/progdescomplicada/videos), por André Backes (Dica do [Lucas Marçal](https://github.com/lucasmc64/));
