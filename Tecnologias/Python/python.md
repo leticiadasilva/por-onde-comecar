@@ -26,9 +26,9 @@
 
 - [Pense em Python](https://penseallen.github.io/PensePython2e/), por Allen B. Downey (Dica de [Gabriel Fonseca](https://github.com/gabriel19913)) #PT-BR;
 
-- [INTRODUÇÃO A PYTHON - COM APLICAÇÕES DE SISTEMAS OPERACIONAIS](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y), Por Fábio Procópio, João Maria, Rodrigo Siqueira e Givanaldo (Dica de [Marcos Vinicius](https://github.com/MarcosViniicius])) #PT-BR;
+- [INTRODUÇÃO A PYTHON - COM APLICAÇÕES DE SISTEMAS OPERACIONAIS](https://memoria.ifrn.edu.br/bitstream/handle/1044/2090/EBOOK%20-%20INTRODU%c3%87%c3%83O%20A%20PYTHON%20%28EDITORA%20IFRN%29.pdf?sequence=1&isAllowed=y), por Fábio Procópio, João Maria, Rodrigo Siqueira e Givanaldo (Dica de [Marcos Vinicius](https://github.com/MarcosViniicius])) #PT-BR;
 
-- [Python e orientação a objetos](https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf), Por Caelum/Alura (Dica de [Marcos Vinicius](https://github.com/MarcosViniicius])) #PT-BR;
+- [Python e orientação a objetos](https://www.caelum.com.br/apostila/apostila-python-orientacao-a-objetos.pdf), por Caelum/Alura (Dica de [Marcos Vinicius](https://github.com/MarcosViniicius])) #PT-BR;
 
 ## Apostilas:
 
