@@ -14,6 +14,8 @@
 
 - [Soft skills que TODOS Desenvolvedores de Software precisam](https://www.youtube.com/watch?v=RY2wgA2kOdo) por Daniel Avelar - Programação Além do Código;
 
+- [As tendências em Soft Skills para as empresas e como desenvolvê-las](https://www.alura.com.br/empresas/artigos/soft-skills-o-que-sao-e-como-desenvolver) por Alura para Empresas;
+
 ## Comunicação
 
 - [Aprendendo a dar Feedbacks Construtivos](https://qulture.rocks/blog/aprendendo-a-dar-feedbacks/), por Blog Qulture Rocks (Dica da [Carolis](https://twitter.com/caroliscaroles));
@@ -23,6 +25,8 @@
 - [Feedback: três dicas para deixar essa habilidade ainda melhor](https://www.linkedin.com/pulse/feedback-tr%C3%AAs-dicas-para-deixar-essa-habilidade-ainda-fernandes/) por Jurandir Fernandes;
 
 - [O que é um Feedback Efetivo e o que ele pode fazer pela sua carreira](https://www.programaria.org/o-que-e-um-feedback-efetivo-e-o-que-ele-pode-fazer-pela-sua-carreira/) por Laura Lemos (Dica de [Larissa Silva](https://github.com/lagcrs));
+
+- [Comunicação de Alta Performance](https://www.youtube.com/watch?v=cTQHrNOlAUo&list=PL8vXuI6zmpdiT0OI7RJNsW46ur0RN8cqq&ab_channel=Kultivi) por [Kultivi](https://kultivi.com/);
 
 
 ## Criatividade
